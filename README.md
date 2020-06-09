@@ -11,7 +11,7 @@ The content of the input box is stored for each Twitter user.
 ## How to install
 
 1. Install Tampermonkey browser extension (for [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), [Microsoft Edge](https://www.microsoft.com/store/apps/9NBLGGH5162S))
-2. Go to [Twitter_UserNote_User_Script in OpenUserJS](https://openuserjs.org/scripts/mirogta/Twitter_User_Note)
+2. Go to [Twitter_User_Note in OpenUserJS](https://openuserjs.org/scripts/mirogta/Twitter_User_Note)
 3. Click on the "Install" button
 
 Then you can go to [twitter.com](https://twitter.com) and use the improvements on any user's page.
